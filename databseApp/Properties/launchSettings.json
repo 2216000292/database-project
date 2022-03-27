@@ -14,6 +14,12 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
+      },
+      "Watch": {
+        "commandName": "Executable",
+        "executablePath": "dotnet.exe",
+        "workingDirectory": "$(ProjectDir)",
+        "commandLineArgs": "watch run"
       }
     },
     "databseApp": {
