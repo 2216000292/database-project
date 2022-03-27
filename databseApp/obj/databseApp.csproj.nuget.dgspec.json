@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscer\\source\\repos\\database-project\\databseApp\\databseApp.csproj": {}
+    "/Users/liam/Documents/school/databases/database-project/databseApp/databseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscer\\source\\repos\\database-project\\databseApp\\databseApp.csproj": {
+    "/Users/liam/Documents/school/databases/database-project/databseApp/databseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscer\\source\\repos\\database-project\\databseApp\\databseApp.csproj",
+        "projectUniqueName": "/Users/liam/Documents/school/databases/database-project/databseApp/databseApp.csproj",
         "projectName": "databseApp",
-        "projectPath": "C:\\Users\\oscer\\source\\repos\\database-project\\databseApp\\databseApp.csproj",
-        "packagesPath": "C:\\Users\\oscer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscer\\source\\repos\\database-project\\databseApp\\obj\\",
+        "projectPath": "/Users/liam/Documents/school/databases/database-project/databseApp/databseApp.csproj",
+        "packagesPath": "/Users/liam/.nuget/packages/",
+        "outputPath": "/Users/liam/Documents/school/databases/database-project/databseApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oscer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/liam/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
